@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joseph Micheal Benedict - PLC Programmer Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <h1>Joseph Micheal Benedict</h1>
+                <p>Controls & Automation Engineering</p>
+                <p>Email: benedict02@gmail.com | Phone: +91 7358633566 | Location: Chennai, India</p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <section id="achievements">
+                <h2>Achievements</h2>
+                <article>
+                    <h3>Received Appreciation from BASF for 2DMC Data Handling Project</h3>
+                    <img src="images/basf-appreciation.jpg" alt="BASF Appreciation">
+                    <p>Successfully implemented a 2DMC data handling system for BASF, enhancing data management efficiency and accuracy. Key contributions included streamlining data capture and processing, automating tasks, and ensuring high data integrity. The project led to significant operational efficiency and cost savings, earning formal appreciation from BASF.</p>
+                </article>
+            </section>
+
+            <section id="experience">
+                <h2>Professional Experience</h2>
+                <article>
+                    <h3>Automation Engineer | BASF India Limited</h3>
+                    <img src="images/automation-engineer.jpg" alt="Automation Engineer">
+                    <h4>2DMC Data Handling Project</h4>
+                    <p><strong>Objective:</strong> Optimize efficiency and accuracy of 2DMC data management.</p>
+                    <p><strong>Implementation:</strong> Developed and deployed a robust data handling system using advanced technologies and software.</p>
+                    <p><strong>Outcome:</strong> Enhanced data processing capabilities, streamlined operations, and achieved significant cost savings.</p>
+                    <p><strong>Recognition:</strong> Earned formal appreciation from BASF for exceptional performance and successful project execution.</p>
+                </article>
+            </section>
+
+            <section id="projects">
+                <h2>Project Details</h2>
+                <article>
+                    <h3>KUKA Robot with Siemens PLC for Pick & Place Application</h3>
+                    <img src="images/kuka-robot.jpg" alt="KUKA Robot">
+                    <p><strong>Overview:</strong> Integration of a KUKA robot with Siemens PLC to develop a fully automated pick and place application. The system improves efficiency and precision in industrial automation processes, where the robot picks up items from a conveyor belt and places them in designated locations.</p>
+                    <p><strong>Hardware and Software Used:</strong> KUKA KR AGILUS series, Siemens S7-1500 PLC, WinCC HMI, PROFINET, OPC-UA, TIA Portal, KUKA.WorkVisual, vision systems, proximity sensors, conveyor belt, grippers, and safety interlocks.</p>
+                </article>
+
+                <article>
+                    <h3>Cartesian Robot with Siemens Motion Control for Tyre Build Application</h3>
+                    <img src="images/cartesian-robot.jpg" alt="Cartesian Robot">
+                    <p><strong>Overview:</strong> Developed and implemented a Cartesian robot integrated with Siemens motion control systems for a tyre build application, automating the process of tyre assembly with high precision, consistency, and efficiency.</p>
+                </article>
+
+                <article>
+                    <h3>Electrical CAM with SINAMICS Motion Control for Material Handling Application</h3>
+                    <img src="images/electrical-cam.jpg" alt="Electrical CAM">
+                    <p><strong>Overview:</strong> Developed and implemented an Electrical CAM system using Siemens SINAMICS motion control for material handling applications, achieving precise and synchronized control of material handling processes, ensuring efficient and accurate operation in an industrial setting.</p>
+                </article>
+            </section>
+
+            <section id="testimonials">
+                <h2>Testimonials</h2>
+                <blockquote>
+                    <p>"Joseph Micheal Benedict demonstrated exceptional technical expertise and leadership during the 2DMC Data Handling Project. His innovative approach and dedication resulted in a highly efficient and reliable system, significantly benefiting our operations. We are extremely pleased with the outcomes and appreciate his outstanding contribution to our success." - [BASF Representative's Name]</p>
+                </blockquote>
+            </section>
+
+            <section id="conclusion">
+                <h2>Recognition for Excellence</h2>
+                <p>Throughout my career, I have consistently demonstrated a commitment to excellence and innovation in the field of automation and controls engineering. My work on the 2DMC Data Handling Project for BASF is a testament to my ability to deliver impactful solutions that drive efficiency and productivity. I am honored to have received formal appreciation from BASF for this project and look forward to continuing to contribute to the success of future initiatives.</p>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Joseph Micheal Benedict. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
